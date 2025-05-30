@@ -1,0 +1,19 @@
+Feature,Importance
+Type personeel_Totaal,0.3039040312554739
+Geslacht_Vrouw,0.29740633224182494
+Percentage,0.1812874287262405
+Type personeel_Militair-manschap,0.04935921405595344
+#,0.04899903648939883
+Leeftijd_t/m 19 jaar,0.0424772027745622
+Leeftijd_25 t/m 34 jaar,0.04185875771836063
+Type personeel_Militair-onderofficier,0.025723425006502182
+Type personeel_Militair-officier,0.0038990937817645955
+Leeftijd_55 jaar of ouder,0.0016493293034374073
+Type personeel_Reservist-onderofficier,0.0009912858245861233
+Type personeel_Reservist-manschap,0.0009847044509704468
+Jaar,0.0008800145432623038
+Type personeel_Reservist-officier,0.0003672741373433371
+Leeftijd_35 t/m 44 jaar,0.00010098389305245445
+Leeftijd_45 t/m 54 jaar,7.048524477217806e-05
+Type personeel_Burgerpersoneel - schaal 9 en hoger,2.3431754993581776e-05
+Type personeel_Burgerpersoneel - schaal 6-8,1.7968797500896496e-05
